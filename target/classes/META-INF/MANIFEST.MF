@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: Brandon
+Class-Path: lib/json-20090211.jar
+Build-Jdk: 1.8.0_25
+Created-By: Maven Integration for Eclipse
+Main-Class: me.bmlzootown.Info
+
